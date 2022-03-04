@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1645755026 source:c:\workspace\01. 코드블록스\c_project_student_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<mem.h>
+
