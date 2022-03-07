@@ -7,7 +7,12 @@ Codeblocks 20.3.0.0
 GNU GCC Complier
 
 ## Descripton
-> 함수 목록
+> #### 실행 화면
+![image](https://user-images.githubusercontent.com/71351412/156997401-5921f783-e03d-4d86-952d-bf91017e075d.png)
+![image](https://user-images.githubusercontent.com/71351412/156997477-27d8e53a-c51f-45e8-bcc0-18bfe1d93906.png)
+<br><br>
+
+> #### 함수 목록
 
 |기능|함수명|
 |------|---|
